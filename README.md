@@ -3,7 +3,7 @@
 Discuss and file Gitter issues here
 ----
 
-Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/thomas0728/PowerTestr)
+Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/powertester/Lobby)
 
 * Desktop Client: https://github.com/gitterHQ/desktop
 * Irc Bridge: https://github.com/gitterHQ/irc-bridge
